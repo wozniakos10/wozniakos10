@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am an AI Engineer, passionate about machine learning and artificial intelligence.  
-I'm currently pursuing my Master's degree in this field, constantly expanding my knowledge and skills through practical projects.
+I am an AI/ML Engineer, passionate about machine learning and artificial intelligence with a Master degree in Computer Science with a specialization in Machine Learning and Artificial Intelligence. 
 
 ---
 
